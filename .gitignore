@@ -1,0 +1,28 @@
+# macOS/backup files
+.~*
+._*
+.DS_Store
+*.swp
+
+
+
+# USB installer [static assets]
+
+*.efi
+*.txt
+debug.log
+
+/APPLE/
+/BOOT/
+
+
+tools/
+themes/
+
+OEM/
+doc/
+ROM/
+
+origin/
+WINDOWS/
+

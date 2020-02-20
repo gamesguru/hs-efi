@@ -138,7 +138,7 @@
 		<key>Debug</key>
 		<true/>
 		<key>DefaultVolume</key>
-		<string>MacHDD</string>
+		<string>macHDD</string>
 		<key>Legacy</key>
 		<string>PBR</string>
 		<key>Secure</key>
@@ -297,52 +297,14 @@
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
-		<key>BiosReleaseDate</key>
-		<string>09/13/2019</string>
-		<key>BiosVendor</key>
-		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM181.88Z.F000.B00.1909131925</string>
-		<key>Board-ID</key>
-		<string>Mac-4B682C642B45593E</string>
-		<key>BoardManufacturer</key>
-		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C02712300GUH69F1F</string>
-		<key>BoardType</key>
-		<integer>10</integer>
-		<key>BoardVersion</key>
-		<string>1.0</string>
-		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
-		<key>ChassisManufacturer</key>
-		<string>Apple Inc.</string>
-		<key>ChassisType</key>
-		<string>0x09</string>
-		<key>EfiVersion</key>
-		<string>178.0.0.0.0</string>
-		<key>Family</key>
-		<string>iMac</string>
-		<key>FirmwareFeatures</key>
-		<string>0xFC0FE176</string>
-		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF7F</string>
-		<key>LocationInChassis</key>
-		<string>Part Component</string>
-		<key>Manufacturer</key>
-		<string>Apple Inc.</string>
-		<key>Mobile</key>
-		<false/>
-		<key>PlatformFeature</key>
-		<string>0x00</string>
+		<string>IM182.88Z.0151.B00.1708080034</string>
 		<key>ProductName</key>
-		<string>iMac18,1</string>
+		<string>iMac18,2</string>
 		<key>SerialNumber</key>
-		<string>C02TG0B4H7JY</string>
-		<key>SmUUID</key>
-		<string>9E0EC4D9-1264-4910-B8F6-130D4763E12C</string>
-		<key>Version</key>
-		<string>1.0</string>
+		<string>C02TVE5GJ1G5</string>
+		<key>Trust</key>
+		<false/>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
